@@ -8,8 +8,6 @@ SERVER = 'outlook.office365.com'
 #Documentation
 #https://ecederstrand.github.io/exchangelib/
 
-
-
 class OutlookException(Exception):
     """Exception obj
     """
